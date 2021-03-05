@@ -1,0 +1,13 @@
+body{
+    font-family:'Times New Roman', Times, serif
+}
+
+ul{
+    list-style-image: url(Clan\ banner.png);
+    list-style-position:outside;
+    padding: 4px;
+    font-size: medium;
+}
+div{
+    margin-left: 30px;
+}
